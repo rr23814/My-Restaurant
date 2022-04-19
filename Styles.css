@@ -1,0 +1,78 @@
+h1 {
+    color: darkturquoise;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+ul li {
+    border: 3px outset;    
+    display: inline-block;
+}
+
+img {
+    display: block;
+    width: 50%;
+}
+
+#Breakfast1 {
+
+}
+
+#Lunch1 {
+
+}
+
+#Dinner1 {
+
+}
+
+#Breakfast2 {
+
+}
+
+#Lunch2 {
+
+}
+
+#Dinner2 {
+    
+}
+
+#Breakfast3 {
+
+}
+
+#Lunch3 {
+
+}
+
+#Dinner3 {
+    
+}
+
+#Breakfast4 {
+
+}
+
+#Lunch4 {
+
+}
+
+#Dinner4 {
+
+}
+
+
+
+
+
+
+
+
+
+
+
